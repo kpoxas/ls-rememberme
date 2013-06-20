@@ -1,14 +1,36 @@
 ls-rememberme
 =============
 
-Remember Me plugin for livestreet.ru
+Remember Me plugin for [LiveStreet CMS](http://livestreetcms.com/ "LiveStreet CMS")
 
 Multiple Sessions stored in DB
 
-================================
-INSTALL
-================================
+==========================================================================
 
-Copy folder to yoursite/plugins   
-Rename ls-rememberme to rememberme  
-Activate rememberme through admin page  
+
+ATTENTION
+---------
+
+
+**To use this plugin requires Livestreet CMS version 1.0 or later.**
+
+
+
+Simple Install
+--------------
+
+
+
+To install feedback do this:
+
+
+
+* [Download the latest build](https://github.com/kpoxas/ls-rememberme "Download as zip")
+
+* Unpack archive
+
+* Rename dir to `feedback`
+
+* Upload to FTP, in the plugins folder
+
+* Activate plugin
